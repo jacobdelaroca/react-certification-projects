@@ -1,0 +1,9 @@
+Build a 25 + 5 Clock: https://codepen.io/Jacob-Dela-Roca/pen/ExzWBXR
+
+Build a JavaScript Calculator: https://codepen.io/Jacob-Dela-Roca/pen/oNRZRop?editors=0010
+
+Build a Drum Machine: https://codepen.io/Jacob-Dela-Roca/pen/vYwxrmr
+
+Build a Markdown Previewer: https://codepen.io/Jacob-Dela-Roca/pen/abrJKzm
+
+Build a Random Quote Machine: https://codepen.io/Jacob-Dela-Roca/pen/QWRdMQo
